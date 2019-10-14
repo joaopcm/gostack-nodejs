@@ -1,0 +1,17 @@
+{
+  "name": "gostack-module-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jopcmelo/gostack-module-01.git",
+  "author": "João Pedro da Cruz Melo <jopcmelo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
